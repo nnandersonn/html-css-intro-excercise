@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gainsboro;
+}
+
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Major Mono Display', monospace;
+}
+
+h3 {
+    text-align: center;
+}
+
+h2{
+    background-color: tan;
+    text-align: center;
+    box-shadow: 5px 5px 4px black;
+}
+
+h2 > span {
+    padding: 5vw;
+}
+
+p{
+    margin: 5px 1%;
+}
+
+.main-card {
+    box-shadow: 5px 5px 4px black;
+    margin: 1% 30%;
+    background-color: tan;
+    padding: 15px;
+}
